@@ -8,3 +8,5 @@
 - [LA TULIPE](chapitres/LA_TULIPE.md)
 - [LA MONTAGNE BLEUE](chapitres/LA_MONTAGNE_BLEUE.md)
 - [PARIS, 2012](chapitres/PARIS_2012.md)
+- [PARIS, 2012](chapitres/PARIS_2012.md)
+- [L'ÉNIGMATIQUE ECLAIREUR](chapitres/L_ENIGMATIQUE_ECLAIREUR.md)
