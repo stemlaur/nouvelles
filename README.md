@@ -7,3 +7,4 @@
 - [UNE LETTRE (2)](chapitres/UNE_LETTRE_2.md)
 - [LA TULIPE](chapitres/LA_TULIPE.md)
 - [LA MONTAGNE BLEUE](chapitres/LA_MONTAGNE_BLEUE.md)
+- [PARIS, 2012](chapitres/PARIS_2012.md)
