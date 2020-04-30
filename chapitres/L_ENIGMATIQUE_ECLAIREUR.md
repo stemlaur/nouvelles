@@ -1,4 +1,4 @@
-# L'ÉNIGMATIQUE ECLAIREUR
+# L'ÉNIGMATIQUE ÉCLAIREUR
 
 _Toutes les nuits, il avance dans le noir. L’énigmatique éclaireur._
 
