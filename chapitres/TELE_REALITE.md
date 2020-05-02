@@ -1,6 +1,6 @@
 # TÉLÉ RÉALITÉ
 
-Mesdames et messieurs, bonsoir et bienvenus dans notre nouveau jeu télévisé : « la confiance ou l’insouciance ». Ce soir nous accueillons Pascal qui nous nous vient de Fleury-mérogis, et qui va tenter de remporter le million d’euros !
+Mesdames et messieurs, bonsoir et bienvenus dans notre nouveau jeu télévisé : « la confiance ou l’insouciance ». Ce soir nous accueillons Pascal qui nous vient de Fleury-mérogis, et qui va tenter de remporter le million d’euros !
 
 Pour cela il vous faudra traverser trois épreuves extrêmement risquées ! Mais sachez que ce soir, il y aura peut-être un gagnant du million dans ce jeu. 
 
