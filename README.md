@@ -12,3 +12,4 @@
 - [LE CORBEAU](chapitres/LE_CORBEAU.md)
 - [TROU](chapitres/TROU.md)
 - [TÉLÉ RÉALITÉ](chapitres/TELE_REALITE.md)
+- [L'HOMÉLIE](chapitres/L_HOMELIE.md)
