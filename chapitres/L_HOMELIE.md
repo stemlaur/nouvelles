@@ -39,6 +39,3 @@ Voyez-vous, Dieu est éternel, vivant et vrai ; aussi est-il partout, dans chaqu
 Voilà pourquoi, chers frères et sœurs, chers enfants, c'est à mon tour de vous appeler à l'aide, dans ce métro 6 bondé en direction de Nation, si vous avez une pièce ou un ticket-restaurant, je suis certain que Dieu parlera en votre nom pour me venir en aide.
 
 
- 
-
-w
