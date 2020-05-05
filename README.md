@@ -14,3 +14,4 @@
 - [TÉLÉ RÉALITÉ](chapitres/TELE_REALITE.md)
 - [L'HOMÉLIE](chapitres/L_HOMELIE.md)
 - [LE VILLAGE (1)](chapitres/LE_VILLAGE_1.md)
+- [LE LABYRINTHE](chapitres/LE_LABYRINTHE.md)
