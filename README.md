@@ -17,3 +17,4 @@
 - [LE LABYRINTHE](chapitres/LE_LABYRINTHE.md)
 - [DÉCAPITÉE](chapitres/DECAPITEE.md)
 - [NATIONALE N43](chapitres/NATIONALE_N43.md)
+- [LE PURGATOIRE](chapitres/LE_PURGATOIRE.md)
