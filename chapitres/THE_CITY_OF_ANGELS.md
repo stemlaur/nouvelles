@@ -66,7 +66,7 @@ The Gods took back what they have given before
 
 They will no longer respond when we call…
 
-Them to keep an eye to the distant shores.
+Them to keep an eye on the distant shores.
 
 ---
 
