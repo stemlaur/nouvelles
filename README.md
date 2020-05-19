@@ -30,4 +30,5 @@
 - [LES TOURNESOLS](chapitres/LES_TOURNESOLS.md)
 - [NOCTURNE](chapitres/NOCTURNE.md)
 - [BLANC](chapitres/BLANC.md)
-- [LA PLACE](chapitres/LA_PLAGE.md)
+- [LA PLAGE](chapitres/LA_PLAGE.md)
+- [LA VAGUE](chapitres/LA_VAGUE.md)
